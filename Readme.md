@@ -15,15 +15,16 @@ Referência das Visualizações:
 
 
 ### Nível Básico
-[X] Enviar os dados para o hdfs
-[X] Otimizar todos os dados do hdfs para uma tabela Hive particionada por município.
-[X] Criar 3 vizualizações pelo Spark com os dados enviados para o HDFS:
-[X] Salvar a primeira visualização como tabela Hive
-[X] Salvar a segunda visualização com formato parquet e compressão snappy
-[X] Salvar a terceira visualização em um tópico no Kafka
-[X] Criar a visualização pelo Spark com os dados enviados para o HDFS:
-[   ] Salvar a visualização do exercício 6 em um tópico no Elastic
-[   ] Criar um dashboard no Elastic para visualização dos novos dados enviados
+
+ - [X] Enviar os dados para o hdfs
+ - [X] Otimizar todos os dados do hdfs para uma tabela Hive particionada por município.
+ - [X] Criar 3 vizualizações pelo Spark com os dados enviados para o HDFS:
+ - [X] Salvar a primeira visualização como tabela Hive
+ - [X] Salvar a segunda visualização com formato parquet e compressão snappy
+ - [X] Salvar a terceira visualização em um tópico no Kafka
+ - [X] Criar a visualização pelo Spark com os dados enviados para o HDFS:
+ - [   ] Salvar a visualização do exercício 6 em um tópico no Elastic
+ - [   ] Criar um dashboard no Elastic para visualização dos novos dados enviados
 
 ## Tecnologias
 
